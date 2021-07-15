@@ -1,7 +1,7 @@
 # JavaScript Technical Assessment :: Anish Giri
 
-## See it live at
-- [a link](https://polar-lake-88586.herokuapp.com/)
+## Deployed location
+- [Click here to see it live](https://polar-lake-88586.herokuapp.com/)
 
 ## Getting Started
 
